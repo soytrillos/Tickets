@@ -75,7 +75,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
     'dsn'    => '',
-    'hostname' => 'localhost',
+    'hostname' => 'soft_developer05_mariadb_1',
 	'username' => 'root',
 	'password' => '',
 	'database' => 'tiket_demo',
